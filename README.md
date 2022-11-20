@@ -42,6 +42,8 @@ _part2_/
 • putnbr_fd
 • putendl_fd
 
+-------------------------------------------
+
 _BONUS_/
 
 • lstnew
