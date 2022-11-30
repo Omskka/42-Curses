@@ -6,11 +6,8 @@
 
 • isalpha       
 • isdigit
-
 • isalnum
-
 • isascii
-
 • isprint
 
 • strlen
