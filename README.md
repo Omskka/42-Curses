@@ -28,7 +28,7 @@
 • calloc
 • strdup
 
-_part2_/
+**_part2_/**
 
 • substr
 • strjoin
