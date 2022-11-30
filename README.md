@@ -18,7 +18,7 @@
 • strlcat  
 • toupper   
 • tolower   
-• strchrad 
+• strchr  
 • strrchr 
 • strncmp 
 • memchr 
