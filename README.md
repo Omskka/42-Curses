@@ -5,10 +5,10 @@
 **_part1_/**
 
 • isalpha       
-• isdigit
-• isalnum
-• isascii
-• isprint
+• isdigit   
+• isalnum   
+• isascii   
+• isprint   
 
 • strlen
 
