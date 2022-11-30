@@ -19,60 +19,42 @@
 • toupper   
 • tolower   
 • strchr  
-• strrchr 
-• strncmp 
-• memchr 
-• memcmp 
-• strnstr 
-• atoi  
-• calloc 
-• strdup  
+• strrchr  
+• strncmp  
+• memchr  
+• memcmp  
+• strnstr  
+• atoi   
+• calloc  
+• strdup   
 
 
 **_part2_/**
 
-• substr
-
-• strjoin
-
-• strtrim
-
-• split
-
-• itoa
-
-• strmapi
-
-• striteri
-
-• putchar_fd
-
-• putstr_fd
-
-• putnbr_fd
-
-• putendl_fd
+• substr  
+• strjoin  
+• strtrim  
+• split  
+• itoa  
+• strmapi  
+• striteri   
+• putchar_fd  
+• putstr_fd   
+• putnbr_fd  
+• putendl_fd  
 
 
 -------------------------------------------
 
 **_BONUS_/**
 
-• lstnew
-
-• lstadd_front
-
-• lstsize 
-
-• lstlast
-
-• lstadd_back
-
-• lstdelone
-
-• lstclear (X)
-
-• lstiter (X)
-
-• lstmap (X)
+• lstnew  
+• lstadd_front  
+• lstsize   
+• lstlast  
+• lstadd_back  
+• lstdelone  
+• lstclear (X)  
+• lstiter (X)  
+• lstmap (X)    
 
