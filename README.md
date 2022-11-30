@@ -1,8 +1,8 @@
 # 42-Curses-Libft
 
-Mandatory functions/
+<h2>Mandatory functions/</h2>
 
-_part1_/
+**_part1_/**
 
 • isalpha   
 • isdigit
@@ -44,7 +44,7 @@ _part2_/
 
 -------------------------------------------
 
-_BONUS_/
+**_BONUS_/**
 
 • lstnew
 • lstadd_front
