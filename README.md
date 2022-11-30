@@ -9,42 +9,24 @@
 • isalnum   
 • isascii   
 • isprint   
-
-• strlen
-
-• memset
-
-• bzero
-
-• memcpy
-
-• memmove
-
-• strlcpy
-
-• strlcat
-
-• toupper
-
-• tolower
-
-• strchrad
-
-• strrchr
-
-• strncmp
-
-• memchr
-
-• memcmp
-
-• strnstr
-
-• atoi
-
-• calloc
-
-• strdup
+• strlen  
+• memset  
+• bzero  
+• memcpy  
+• memmove  
+• strlcpy  
+• strlcat  
+• toupper   
+• tolower   
+• strchrad 
+• strrchr 
+• strncmp 
+• memchr 
+• memcmp 
+• strnstr 
+• atoi  
+• calloc 
+• strdup  
 
 
 **_part2_/**
