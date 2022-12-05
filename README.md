@@ -44,11 +44,11 @@
 • putnbr_fd  
 • putendl_fd  
 
-| substr  |  strjoi n             |  strtrim   |
+| substr  |  strjoin             |  strtrim   |
 | :------------ |:--------------- | :----------|
-| col 3 is      | some wordy text | $1600    sdfsdf  |
-| col 2 is      | centered        |   $12  sdfsdfsdf    |
-| zebra stripes | are neat        |    $1 wdfdafdsf     |
+| split      | itoa | strmapi |
+| striteri     | putchar_fd       |   putstr_fd    |
+| putnbr_fd | putendl_fd        |    $1 wdfdafdsf     |
 
 
 -------------------------------------------
