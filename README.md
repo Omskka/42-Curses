@@ -1,6 +1,5 @@
-<div>
-# 42-Curses-Libft
-</div>
+
+#42-Curses-Libft
 
 <h2>Mandatory functions/</h2>
 
