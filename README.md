@@ -27,7 +27,7 @@
 | itoa     | strmapi      |   
 | striteri | putchar_fd |
 | putstr_fd | putnbr_fd |
-|putendl|
+|putendl_fd|
 
 
 -------------------------------------------
