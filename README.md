@@ -34,20 +34,12 @@
 
 **_BONUS_/**
 
->• lstnew  
-• lstadd_front  
-• lstsize   
-• lstlast  
-• lstadd_back  
-• lstdelone  
-• lstclear (X)  
-• lstiter (X)  
-• lstmap (X)    
-
 | lstnew  |  lstadd_front |  
 | :------------ |:--------------- | 
 | lstsize    | lstlast      |
 | lstadd_back     | lstdelone      |   
 | *lstclear | *lstiter |
 | *lstmap | 
+
+*Not done
 
