@@ -46,9 +46,11 @@
 
 | substr  |  strjoin             |  
 | :------------ |:--------------- | 
-| split      | itoa       |
-| striteri     | putchar_fd       |   
-| putnbr_fd | putendl_fd        |     
+| strtrim    | split      |
+| itoa     | strmapi      |   
+| striteri | putchar_fd |
+| putstr_fd | putnbr_fd |
+|putendl|
 
 
 -------------------------------------------
