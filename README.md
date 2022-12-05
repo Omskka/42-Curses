@@ -1,7 +1,7 @@
 
 <h1>42-Curses-Libft</h1>
 
-[ss](SS/libft.png)
+![ss](SS/libft.png)
 
 <h2>Mandatory functions/</h2>
 
