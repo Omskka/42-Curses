@@ -58,9 +58,3 @@
 • lstclear (X)  
 • lstiter (X)  
 • lstmap (X)    
-
-Unordered Lists:
-Item 1Item 2Item 3Item 4
-
-Order Lists:
-Item 1Item 2Item 3Item 4Item 5
