@@ -1,5 +1,5 @@
 
-<h1>#42-Curses-Libft</h1>
+<h1>42-Curses-Libft</h1>
 
 <h2>Mandatory functions/</h2>
 
