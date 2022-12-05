@@ -5,7 +5,7 @@
 
 **_part1_/**
 
-• isalpha       
+>• isalpha       
 • isdigit   
 • isalnum   
 • isascii   
