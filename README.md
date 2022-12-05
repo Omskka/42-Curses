@@ -44,11 +44,10 @@
 • putnbr_fd  
 • putendl_fd  
 |  substr  |  strjoin  |  strtrim  |  split  |
-|  
-|
-|
-|
-|
+|  :-------|:---------:|:---------:|--------:|
+|   itoa   |  strmapi  |  striteri |  putchar_fd 
+| putstr_fd|  putnbr_fd| putendl_fd| 
+
 
 
 
