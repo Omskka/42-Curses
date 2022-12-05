@@ -48,7 +48,7 @@
 | :------------ |:--------------- | :----------|
 | split      | itoa | strmapi |
 | striteri     | putchar_fd       |   putstr_fd    |
-| putnbr_fd | putendl_fd        |    $1 wdfdafdsf     |
+| putnbr_fd | putendl_fd        |        |
 
 
 -------------------------------------------
