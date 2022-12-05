@@ -32,7 +32,7 @@
 
 **_part2_/**
 
-• substr  
+>• substr  
 • strjoin  
 • strtrim  
 • split  
@@ -49,7 +49,7 @@
 
 **_BONUS_/**
 
-• lstnew  
+>• lstnew  
 • lstadd_front  
 • lstsize   
 • lstlast  
